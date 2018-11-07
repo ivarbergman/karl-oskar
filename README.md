@@ -3,7 +3,7 @@
 
 ![A very old torp](https://dms-cf-06.dimu.org/image/022yjygyvT7C?dimension=max)
 
-As Karl-Oskar in [Utvandrarna](https://sv.wikipedia.org/wiki/Utvandrarserien) took his family over the vast Ocean, `Karl-Oskar` will help you over the sea of database changes. With [DbUp](https://github.com/DbUp/DbUp) as the Transantlantic crossing vessel, `Karl-Oskar` will set sails and help you to the other shore.
+As Karl-Oskar in [Utvandrarna](https://en.wikipedia.org/wiki/The_Emigrants_(novel_series)) took his family over the vast Ocean, `Karl-Oskar` will help you over the sea of database changes. With [DbUp](https://github.com/DbUp/DbUp) as the Transantlantic crossing vessel, `Karl-Oskar` will set sails and help you to the other shore.
 
 ## Usage
 ```
