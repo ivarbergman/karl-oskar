@@ -14,3 +14,5 @@ Options:
   -dir|--script-directory <DIRECTORY>        Path to migration script directory
   -cs|--connectionstring <CONNECTIONSTRING>  Connection string
 ```
+
+
